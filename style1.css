@@ -1,0 +1,36 @@
+/* Styles pour les articles */
+
+.article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ddd;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .article h2 {
+    font-size: 28px;
+    margin: 0 0 10px;
+  }
+  
+  .article p {
+    font-size: 16px;
+    margin: 0 0 20px;
+  }
+  
+  .article a {
+    background-color: #3b3c3d;
+    border: 1px solid #111314;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .article a:hover {
+    background-color: #2e2e2e;
+  }
+  
